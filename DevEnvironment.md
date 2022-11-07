@@ -24,6 +24,7 @@
 
 - Tools > Options > Text Editor > C# > Advanced > Using Directive > Place 'System' directives first when sorting using = Checked.
 - Tools > Options > Projects and Solutions > General > Track Active Item in Solution Explorer = Checked.
+- Tools > Options > Projects and Solutions > Location > Project location = "c:\Code"
 
 ## Visual Studio Extensions
 

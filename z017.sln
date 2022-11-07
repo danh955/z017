@@ -11,7 +11,25 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{EF813D3B-11A7-46AE-B24A-D97731D77C53}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YahooLiteDB", "YahooLiteDB\YahooLiteDB.csproj", "{7A5A9DA3-BA70-46DA-8666-39252A0591D8}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF813D3B-11A7-46AE-B24A-D97731D77C53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF813D3B-11A7-46AE-B24A-D97731D77C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF813D3B-11A7-46AE-B24A-D97731D77C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF813D3B-11A7-46AE-B24A-D97731D77C53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A5A9DA3-BA70-46DA-8666-39252A0591D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A5A9DA3-BA70-46DA-8666-39252A0591D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A5A9DA3-BA70-46DA-8666-39252A0591D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A5A9DA3-BA70-46DA-8666-39252A0591D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
